@@ -1,0 +1,8 @@
+.replaygrid
+{
+	display: grid;
+	grid-template-columns: 20em 1fr;
+	grid-template-rows: 4em 22em;
+	grid-column-gap: 3px;
+	grid-row-gap: 3px;
+}
